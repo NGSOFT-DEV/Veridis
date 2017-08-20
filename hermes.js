@@ -6,7 +6,7 @@
 }
 `);
       hermes.environment = 'development';
-      hermes.buildTimeStamp = new Date('2017-02-08T15:59:31.109Z');
+      hermes.buildTimeStamp = new Date('2017-08-20T11:33:59.442Z');
       hermes.gruntVersion = '1.0.1';
       hermes.events = {};
       window['Hermes'] = hermes;
